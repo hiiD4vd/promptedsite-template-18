@@ -1,0 +1,125 @@
+{
+  "story": {
+    "name": "Layout",
+    "created_at": "2025-10-22T07:59:42.481Z",
+    "published_at": "2026-01-29T09:59:01.228Z",
+    "updated_at": "2026-01-29T09:59:01.236Z",
+    "id": 104162846725459,
+    "uuid": "e7d7f4d0-c692-4cf7-a7c3-7e3e157d035c",
+    "content": {
+      "_uid": "71dec410-a92e-417a-ba6c-36561896e72a",
+      "email": {
+        "id": "",
+        "url": "mailto:contact@promptedsite.com",
+        "email": "contact@promptedsite.com",
+        "linktype": "email",
+        "fieldtype": "multilink",
+        "cached_url": "mailto:contact@promptedsite.com"
+      },
+      "favicons": [
+        {
+          "_uid": "56c6b63b-6eef-4173-bf6d-7c4883e64e17",
+          "component": "favicons",
+          "favicon_ico": {
+            "id": 104169505677457,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/favicon.ico",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          },
+          "favicon_png": {
+            "id": 104169505501327,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/favicon-96x96.png",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          },
+          "favicon_svg": {
+            "id": 104169505616016,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/favicon.svg",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          },
+          "favicon_apple": {
+            "id": 104169505476750,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/apple-touch-icon.png",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          }
+        }
+      ],
+      "nav_left": [
+        {
+          "_uid": "bcf29e0f-2bd4-418c-9c22-cf34e2c71bc3",
+          "link": {
+            "id": "",
+            "url": "#how",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#how"
+          },
+          "text": "PrompTedSite",
+          "component": "nav-item"
+        },
+        {
+          "_uid": "229340fe-6174-4b0b-b083-ec4dc1cc6c7e",
+          "link": {
+            "id": "",
+            "url": "#locations",
+            "linktype": "url",
+            "fieldtype": "multilink",
+            "cached_url": "#locations"
+          },
+          "text": "Locations",
+          "component": "nav-item"
+        }
+      ],
+      "component": "global-page"
+    },
+    "slug": "global",
+    "full_slug": "global",
+    "sort_by_date": null,
+    "position": -10,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "0fbbe0f8-854d-48f3-81e6-ca70b51b985c",
+    "first_published_at": "2023-09-08T16:48:21.748Z",
+    "release_id": null,
+    "lang": "default",
+    "path": "/",
+    "alternates": [],
+    "default_full_slug": null,
+    "translated_slugs": null
+  },
+  "cv": 1769768465,
+  "rels": [],
+  "links": []
+}
