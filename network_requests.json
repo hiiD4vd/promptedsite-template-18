@@ -1,0 +1,367 @@
+[
+  {
+    "url": "https://www.planetono.space/",
+    "method": "GET",
+    "resource_type": "document"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/entry.xOEq5fYY.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/RichText.22vVeUUE.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/CJbJqNFW.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/CynaLdv5.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/Bu4f1jqn.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/D503K8Mw.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/BNmyDtAw.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/BGIXV84S.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/K6UcvD-D.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/Do-GRW68.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/builds/meta/8a0151a7-f806-40ef-9c7c-66ed1c33d508.json",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/images/logo.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/C0U4uea6.js",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/DfI5W13f.js",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/C_HkvpfQ.js",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/B2OCNB9g.js",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/Three.BUQfdf5R.css",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/CTGtMt6h.js",
+    "method": "GET",
+    "resource_type": "other"
+  },
+  {
+    "url": "https://a.storyblok.com/f/287985154612015/2664x2664/b2b32f1cc1/northern-1.avif",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/images/marker.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/images/marker-open.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/images/marker-shadow.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://a.storyblok.com/f/287985154612015/2664x2664/5dbae2dcc0/southern-1.avif",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/fonts/passata.woff2",
+    "method": "GET",
+    "resource_type": "font"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9Z1xlFQ.woff2",
+    "method": "GET",
+    "resource_type": "font"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFQ.woff2",
+    "method": "GET",
+    "resource_type": "font"
+  },
+  {
+    "url": "https://www.planetono.space/draco/draco_wasm_wrapper.js",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/draco/draco_decoder.wasm",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://unpkg.com/@rive-app/canvas@2.32.2/rive.wasm",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/rive/rive.riv",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://api.storyblok.com/v2/cdn/stories/global?version=public&resolve_relations=&token=olPMuH3v3dpkCrKTvLnLpAtt&resolve_level=2",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/ambient.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/click.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/hover.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/logo.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/swoosh.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/map-hover.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/map-click.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/map-leave.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://ljd0bcgtaoiynl4q.public.blob.vercel-storage.com/sounds/empty-click.mp3",
+    "method": "GET",
+    "resource_type": "media"
+  },
+  {
+    "url": "https://api.storyblok.com/v2/cdn/stories/global?cv=1769768465&resolve_level=2&resolve_relations=&token=olPMuH3v3dpkCrKTvLnLpAtt&version=public",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://www.planetono.space/_vercel/insights/script.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://api.storyblok.com/v2/cdn/stories/home?version=public&resolve_relations=&token=olPMuH3v3dpkCrKTvLnLpAtt&cv=1769768465&resolve_level=2",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/SectionHero.DT6PZdni.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/SectionProcess.CK4jt9gp.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/SectionLocation.5LY2owQJ.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/SectionContacts.nLrwqh9w.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/lottie/bubble01.json",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/lottie/bubble02.json",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/lottie/bubble03.json",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/lottie/northern.json",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/lottie/southern.json",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/Three.BUQfdf5R.css",
+    "method": "GET",
+    "resource_type": "stylesheet"
+  },
+  {
+    "url": "https://www.planetono.space/images/pointer.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/images/cursor.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/CTGtMt6h.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/_nuxt/conditional.worker-CjhnXHD9.js",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "https://www.planetono.space/images/mask.svg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/three/slider_camera.glb",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/three/scroll_camera.glb",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/three/scroll_camera_mobile.glb",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/three/slider_model.glb",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/three/scroll_model.glb",
+    "method": "GET",
+    "resource_type": "xhr"
+  },
+  {
+    "url": "https://www.planetono.space/three/cache/slider_geometry_cache.json",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://www.planetono.space/three/cache/scroll_geometry_cache.json",
+    "method": "GET",
+    "resource_type": "fetch"
+  },
+  {
+    "url": "https://www.planetono.space/three/textures/threeTone.jpg",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "https://www.planetono.space/three/textures/sesame.png",
+    "method": "GET",
+    "resource_type": "image"
+  },
+  {
+    "url": "blob:https://www.planetono.space/a55d3a1c-ac38-4813-96df-3a269127fa0c",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "blob:https://www.planetono.space/a55d3a1c-ac38-4813-96df-3a269127fa0c",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "blob:https://www.planetono.space/a55d3a1c-ac38-4813-96df-3a269127fa0c",
+    "method": "GET",
+    "resource_type": "script"
+  },
+  {
+    "url": "blob:https://www.planetono.space/a55d3a1c-ac38-4813-96df-3a269127fa0c",
+    "method": "GET",
+    "resource_type": "script"
+  }
+]

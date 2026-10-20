@@ -1,0 +1,192 @@
+{
+  "title": "Planeto\u00f1o",
+  "url": "https://www.planetono.space/",
+  "scriptsCount": 5,
+  "scripts": [
+    "{\"imports\":{\"#entry\":\"/_nuxt/CJbJqNFW.js\"}}",
+    "https://www.planetono.space/_nuxt/CJbJqNFW.js",
+    "https://www.planetono.space/_vercel/insights/script.js",
+    "[[\"ShallowReactive\",1],{\"data\":2,\"state\":14,\"once\":543,\"_errors\":544,\"serverRendered\":546,\"path\":72,",
+    "window.__NUXT__={};window.__NUXT__.config={public:{storyblokVersion:\"public\",piniaPluginPersistedsta"
+  ],
+  "linksCount": 26,
+  "links": [
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/entry.xOEq5fYY.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/RichText.22vVeUUE.css"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/CJbJqNFW.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/CynaLdv5.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/Bu4f1jqn.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/D503K8Mw.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/BNmyDtAw.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/BGIXV84S.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/K6UcvD-D.js"
+    },
+    {
+      "rel": "modulepreload",
+      "href": "https://www.planetono.space/_nuxt/Do-GRW68.js"
+    },
+    {
+      "rel": "preload",
+      "href": "https://www.planetono.space/_nuxt/builds/meta/8a0151a7-f806-40ef-9c7c-66ed1c33d508.json"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/C0U4uea6.js"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/DfI5W13f.js"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/C_HkvpfQ.js"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/B2OCNB9g.js"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/Three.BUQfdf5R.css"
+    },
+    {
+      "rel": "prefetch",
+      "href": "https://www.planetono.space/_nuxt/CTGtMt6h.js"
+    },
+    {
+      "rel": "icon",
+      "href": "https://a.storyblok.com/f/287985154612015/96x96/2f0831a892/favicon-96x96.png"
+    },
+    {
+      "rel": "icon",
+      "href": "https://a.storyblok.com/f/287985154612015/512x512/e75e9fae2c/favicon.svg"
+    },
+    {
+      "rel": "shortcut icon",
+      "href": "https://a.storyblok.com/f/287985154612015/x/2be3bf09eb/favicon.ico"
+    },
+    {
+      "rel": "apple-touch-icon",
+      "href": "https://a.storyblok.com/f/287985154612015/180x180/838a318026/apple-touch-icon.png"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/SectionHero.DT6PZdni.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/SectionProcess.CK4jt9gp.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/SectionLocation.5LY2owQJ.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/SectionContacts.nLrwqh9w.css"
+    },
+    {
+      "rel": "stylesheet",
+      "href": "https://www.planetono.space/_nuxt/Three.BUQfdf5R.css"
+    }
+  ],
+  "canvases": [
+    {
+      "id": "",
+      "className": "the-preloader__logo",
+      "w": 393,
+      "h": 196
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 400,
+      "h": 200
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 400,
+      "h": 200
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 400,
+      "h": 200
+    },
+    {
+      "id": "",
+      "className": "the-sound-switcher__rive",
+      "w": 400,
+      "h": 200
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "id": "",
+      "className": "the-nav__item__rive",
+      "w": 0,
+      "h": 0
+    },
+    {
+      "id": "",
+      "className": "stepper__rive",
+      "w": 1050,
+      "h": 126
+    },
+    {
+      "id": "",
+      "className": "",
+      "w": 1920,
+      "h": 1080
+    }
+  ],
+  "audios": [],
+  "globals": [
+    "__VUE_INSTANCE_SETTERS__",
+    "__VUE_SSR_SETTERS__",
+    "gsapVersions",
+    "__VUE__",
+    "useNuxtApp",
+    "lenisVersion",
+    "_gsap"
+  ],
+  "hasWebGL": true
+}

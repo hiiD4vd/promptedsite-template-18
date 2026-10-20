@@ -1,0 +1,134 @@
+[
+  {
+    "id": "",
+    "className": "--button-reset button-main button-shadow --type-undefined",
+    "text": "START",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item",
+    "text": "How it works",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item",
+    "text": "Locations",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-header-desktop__logo",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item --email",
+    "text": "Contact",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-sound-switcher",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-header-mobile__logo",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-sound-switcher-mobile",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item",
+    "text": "How it works",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item",
+    "text": "Locations",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "the-nav__item --email",
+    "text": "Contact",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "button-controls button-shadow",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "button-controls button-shadow",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "section-hero__scroll-down",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-0",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-5",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-10",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-15",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-20",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "headlessui-popover-button-v-0-1-0-2-25",
+    "className": "map-marker__button",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "section-contacts__logo",
+    "text": "",
+    "aria": ""
+  },
+  {
+    "id": "",
+    "className": "",
+    "text": "tubik",
+    "aria": ""
+  }
+]
