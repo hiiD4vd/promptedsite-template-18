@@ -1,0 +1,1 @@
+import{_ as o,c as s,o as e,a as t,F as r,r as a}from"#entry";const c={class:"grid container"},_={class:"grid__columns"},n={class:"grid__column"},d=9,i={__name:"Grid",setup(l){return(m,u)=>(e(),s("div",c,[t("div",_,[(e(),s(r,null,a(d,p=>t("div",n)),64))])]))}},g=o(i,[["__scopeId","data-v-45a30b18"]]);export{g as default};
