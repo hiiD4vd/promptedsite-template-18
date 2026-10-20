@@ -1,0 +1,943 @@
+{
+  "story": {
+    "name": "Home",
+    "created_at": "2025-10-22T07:59:42.481Z",
+    "published_at": "2026-01-30T10:21:05.268Z",
+    "updated_at": "2026-01-30T10:21:05.281Z",
+    "id": 104162846725458,
+    "uuid": "f58c4494-75e2-48ef-b969-9172d06af098",
+    "content": {
+      "seo": [
+        {
+          "_uid": "a37563aa-0bd8-4f69-baef-914a30ce6edc",
+          "main": {
+            "_uid": "b91d801e-6307-4009-b300-c27a31c4dd24",
+            "title": "PrompTedSpace — Cosmic Fast Food Experience",
+            "plugin": "meta-fields",
+            "description": "We tried making this real. NASA said No. So for now, it's just a delicious cosmic dining concept reimagined by PrompTedSite."
+          },
+          "keywords": "",
+          "og_image": {
+            "id": 137185593241800,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/og.png",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          },
+          "component": "seo"
+        }
+      ],
+      "_uid": "80935dc2-f195-4f75-95bd-cb802939a445",
+      "sections": [
+        {
+          "id": "hero",
+          "_uid": "6f024a7b-0497-4e60-b35b-ca22e2abb894",
+          "slider": [
+            {
+              "_uid": "79af6db6-b341-4375-8bb8-848237a0a627",
+              "title": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "BiGger",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "than hunger.",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "SMALler than",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "A plAnet",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "desc_1": "Stacked cosmic burger with orbit fries and stardust sauce.",
+              "desc_2": "Comes with Major Paws, the fluffiest captain in the Milky Way.",
+              "component": "slide"
+            },
+            {
+              "_uid": "05404c30-d31a-41da-9e4f-95eb6bc7c1ee",
+              "type": "",
+              "title": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "CelEstiAl",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "FuEl fOr",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "inteRstelLar",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "ApPeTitES",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "desc_1": "A warp-speed hot dog with solar ketchup and nebula mustard.",
+              "desc_2": "Includes Cluck Rogers, the space chick on a flavor mission.",
+              "component": "slide"
+            },
+            {
+              "_uid": "a4786f52-f599-43f7-bd41-128d150a7e67",
+              "type": "",
+              "title": {
+                "type": "doc",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "PizZa",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "sO goOD,",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "GraViTY can",
+                        "type": "text"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "paragraph",
+                    "attrs": {
+                      "textAlign": null
+                    },
+                    "content": [
+                      {
+                        "text": "wAit",
+                        "type": "text"
+                      }
+                    ]
+                  }
+                ]
+              },
+              "desc_1": "Pepperoni supernova, asteroid fries, and a cosmic shake. ",
+              "desc_2": "Served with Koalantis, the chillest koala in the galaxy.",
+              "component": "slide"
+            }
+          ],
+          "component": "section-hero"
+        },
+        {
+          "id": "how",
+          "_uid": "84361738-e805-4440-ad4d-84aa091bcc7f",
+          "title": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "gifT iT tO a frienD",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "oR KEep it AlL to",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "YOuRsElf",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "caption": "We won’t judge 😏",
+          "component": "section-process",
+          "timeline_title": "PROMPTEDSiTE"
+        },
+        {
+          "id": "locations",
+          "_uid": "29828729-e34b-4bf2-bce6-e3d9489eec03",
+          "title": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "WhERE TO FIND uS",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "caption": "May the coordinates be ever in your favor",
+          "component": "section-location",
+          "markers_north": [
+            {
+              "_uid": "cbd8066d-c2f6-4c0c-a078-1ff3b3d20523",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "177f736d-0f8b-454a-8b6c-897da61252de",
+                    "body": [
+                      {
+                        "_uid": "64804c90-0dd8-41d0-8e5c-9fd4bb64fd52",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "a6970783-dd2f-4dd7-ad8b-0c1fda382c94",
+                        "value": "64.51 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "1dd74e6d-1bc1-4ea4-9140-25b2dc27898f",
+                    "body": [
+                      {
+                        "_uid": "2508cbbd-0609-4800-8dfa-a852d4d7ff48",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "3ecd1aec-f6c1-44e2-8651-561a20e093c2",
+                        "value": "15h 02m 54.0s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "898a0fa1-6567-4e21-8d14-48d66922da5b",
+                    "body": [
+                      {
+                        "_uid": "89901da2-baa6-486e-90b1-a394b550aaec",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "c7745b02-b59e-41b0-a27b-dc819049e259",
+                        "value": "+46° 17' 26.0\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "49f8d71a-eba5-48d6-8660-0a259816595a",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "9ce62bc7-0283-4310-ad63-ec83b4ffc8a7",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "Noctis ArCH",
+              "component": "marker",
+              "direction": "",
+              "position_x": "35",
+              "position_y": "65"
+            },
+            {
+              "_uid": "c87426e2-e77a-4e18-925f-f25322bc2f75",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "71a2459b-b005-48c0-8675-65c12956afd4",
+                    "body": [
+                      {
+                        "_uid": "0539640d-716f-486d-a8d4-8c0a150f5ee3",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "8749cc1f-324e-4a4c-9221-b1805ee215be",
+                        "value": "593.02 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "2b932bee-00bd-4eab-ad15-363fa7e4263b",
+                    "body": [
+                      {
+                        "_uid": "441d911b-8ce4-470b-86ac-a3f081e5f343",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "af2a8a13-7d4e-42d1-8d57-4fcad0c01378",
+                        "value": "01h 35m 19.8s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "ea2f0135-c999-4a3b-924b-fa636f915677",
+                    "body": [
+                      {
+                        "_uid": "05a6360e-0186-458f-a944-e136a285ae48",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "6bfa1d03-9596-40de-984b-d1dc245744de",
+                        "value": "+30° 47' 40.9\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "0e098024-3f32-4d2c-a8c7-ec03a6e15dd5",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "313ec98c-1190-4faa-9aa8-18ec038bd274",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "AethEr POint",
+              "component": "marker",
+              "direction": "left",
+              "position_x": "58",
+              "position_y": "27"
+            }
+          ],
+          "markers_south": [
+            {
+              "_uid": "ca6f3e9e-9571-4902-ac8f-31fd8a87dfc4",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "55a9d4bf-3a1b-4906-a0ab-e059ffea0d0b",
+                    "body": [
+                      {
+                        "_uid": "9769e990-3dda-4c54-8069-cd2a147c14c9",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "f6038980-b2d9-4031-b7a8-12efa0ebb07f",
+                        "value": "177.94 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "759b2737-cf81-4fe7-89e4-c7d08606bbdd",
+                    "body": [
+                      {
+                        "_uid": "0c3be910-4162-4668-bde3-a0bbde9edda7",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "66523c64-a601-4068-aeb3-5f2d2ce580a2",
+                        "value": "04h 18m 53.8s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "9f652cd8-3f83-4c07-aaef-71b5e5a70047",
+                    "body": [
+                      {
+                        "_uid": "aff97af9-c1cb-4d1b-a6ea-0547f00a11ed",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "79a61b4c-71b9-42a6-a194-8d226c9f5213",
+                        "value": "-34° 32' 50.5\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "026c709f-36f2-443d-be2e-d2ddfbb7e2f7",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "007587a7-0a80-4a8f-936f-f9704c26570d",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "Lyra HAlo",
+              "component": "marker",
+              "position_x": "31",
+              "position_y": "41"
+            },
+            {
+              "_uid": "8c1a5add-27a2-4694-ae4e-1638fe8dfc85",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "0ebf7bad-52d3-46d2-84af-95fb23d8061e",
+                    "body": [
+                      {
+                        "_uid": "d99f5343-2a5f-484a-bef8-eccedcf5b944",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "6f01cc38-51a8-4161-acf0-7f8d06c6dbd6",
+                        "value": "605.12 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "05f6c108-c71a-4d57-b602-e576b298b7c9",
+                    "body": [
+                      {
+                        "_uid": "e2298409-306f-4132-8bc0-e3b3a2ff051d",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "30893efe-9033-4a94-af99-b86f05190d74",
+                        "value": "06h 04m 28.0s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "27283301-9af5-4f76-9800-20b912cf74b7",
+                    "body": [
+                      {
+                        "_uid": "2afa7f22-a74c-4d18-a567-a0126f234001",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "ac89988d-a5a0-4031-9c90-fb1d0d2b9a2a",
+                        "value": "-61° 50' 23.1\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "d7c4b7b7-baaf-42a2-bc33-9cf39f2929b5",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "90687324-723c-46c3-8736-0411f9ddc14d",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "Orion Gate",
+              "component": "marker",
+              "position_x": "36",
+              "position_y": "50"
+            },
+            {
+              "_uid": "29f33b17-2dfe-4614-8cf4-afc778e8bdc0",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "3b6d7f5a-aa90-4abe-9734-ab5475e258da",
+                    "body": [
+                      {
+                        "_uid": "49de324d-c565-4c2b-8a8a-e90e58d8c92f",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "59b21234-c919-4236-912e-ffa72c365a36",
+                        "value": "145.93 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "8786b238-2da9-4b04-ba95-d1e3e79db3de",
+                    "body": [
+                      {
+                        "_uid": "fd8958fe-9b8c-4557-9e21-28351224da70",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "07383abf-2d11-477a-9137-c9b4707ce029",
+                        "value": "19h 31m 12.8s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "cd5132ea-0b89-4b06-8c82-7281ba903574",
+                    "body": [
+                      {
+                        "_uid": "d9c25ebc-498c-4920-98f5-082e0796ebd0",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "10750cb8-cf8e-4bac-a143-9320d8676992",
+                        "value": "-39° 45' 18.6\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "5ffadbd6-7dd0-4ea8-93ab-e6d1543f2a2c",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "cc948732-69fe-4455-98eb-1240ec0a64da",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "DracOnis Eye",
+              "component": "marker",
+              "direction": "left",
+              "position_x": "72",
+              "position_y": "41"
+            },
+            {
+              "_uid": "e809a2a9-9e72-42ac-91ba-d229e8890af6",
+              "data": {
+                "tbody": [
+                  {
+                    "_uid": "3842c00c-0fd1-4ee6-bcbb-e011bc475255",
+                    "body": [
+                      {
+                        "_uid": "d274ccb3-d670-4757-89ef-30c88cb67c88",
+                        "value": "Distance",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "a555fd59-2040-4c89-9ecb-bdf3b37807d9",
+                        "value": "208.71 light years",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "1bc479e6-eb66-4303-a152-bbae2669e15a",
+                    "body": [
+                      {
+                        "_uid": "57169b24-3f34-457e-9e11-934ebd9a363f",
+                        "value": "Ra",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "32f9578e-88f0-4cf3-b963-3e55a2443cc7",
+                        "value": "13h 42m 48.1s",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  },
+                  {
+                    "_uid": "5fc2592b-0781-42fd-99a7-11887a8d2573",
+                    "body": [
+                      {
+                        "_uid": "26aadcfa-da52-4137-a17f-e2f7085438c0",
+                        "value": "Dec",
+                        "component": "_table_col"
+                      },
+                      {
+                        "_uid": "55a64819-44fa-4195-9f3e-3cbcaf4a1445",
+                        "value": "-28° 14' 22.1\"",
+                        "component": "_table_col"
+                      }
+                    ],
+                    "component": "_table_row"
+                  }
+                ],
+                "thead": [
+                  {
+                    "_uid": "e00de07c-9fd8-4305-9737-be762c65403d",
+                    "value": "",
+                    "component": "_table_head"
+                  },
+                  {
+                    "_uid": "78d3957e-a1e2-4595-8998-12d37e6cc714",
+                    "value": "",
+                    "component": "_table_head"
+                  }
+                ],
+                "fieldtype": "table"
+              },
+              "title": "Australis Veil",
+              "component": "marker",
+              "direction": "left",
+              "position_x": "62",
+              "position_y": "77"
+            }
+          ],
+          "map_image_north": {
+            "id": 136126201964326,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/northern-1.avif",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          },
+          "map_image_south": {
+            "id": 136126202009383,
+            "alt": "",
+            "name": "",
+            "focus": "",
+            "title": "",
+            "source": "",
+            "filename": "/storyblok_assets/southern-1.avif",
+            "copyright": "",
+            "fieldtype": "asset",
+            "meta_data": {},
+            "is_external_url": false
+          }
+        },
+        {
+          "id": "contacts",
+          "_uid": "0c359c38-93ac-4789-82f5-7ba9bdce8515",
+          "title": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "We tried maKing this real. NaSA said nO.",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "So for nOw, it’s just a deliCiOus Concept",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "attrs": {
+                  "textAlign": null
+                },
+                "content": [
+                  {
+                    "text": "By ",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "text": "PrompTedSite ",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "link",
+                        "attrs": {
+                          "href": "https://promptedsite.com",
+                          "target": "_blank",
+                          "linktype": "url"
+                        }
+                      },
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      },
+                      {
+                        "type": "underline"
+                      }
+                    ]
+                  },
+                  {
+                    "text": "🪐✨",
+                    "type": "text",
+                    "marks": [
+                      {
+                        "type": "textStyle",
+                        "attrs": {
+                          "color": ""
+                        }
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          "component": "section-contacts",
+          "footer_caption_left": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "Crafted with Cosmic AI",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "by PrompTedSite Studio",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          },
+          "footer_caption_right": {
+            "type": "doc",
+            "content": [
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "PrompTedSpace Concept",
+                    "type": "text"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "content": [
+                  {
+                    "text": "All Galaxies Reserved © 2026",
+                    "type": "text"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ],
+      "component": "home-page"
+    },
+    "slug": "home",
+    "full_slug": "home",
+    "sort_by_date": null,
+    "position": 0,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "1e366a51-0f3e-4c2e-8538-d08ccd376f0e",
+    "first_published_at": "2023-09-08T16:48:28.272Z",
+    "release_id": null,
+    "lang": "default",
+    "path": "/",
+    "alternates": [],
+    "default_full_slug": null,
+    "translated_slugs": null
+  },
+  "cv": 1769768465,
+  "rels": [],
+  "links": []
+}
