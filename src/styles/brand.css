@@ -1,0 +1,42 @@
+
+.the-header-desktop__logo .the-logo,
+.the-header-mobile__logo .the-logo {
+  opacity: 1 !important;
+  z-index: 10 !important;
+}
+.the-header-desktop__logo .the-preloader__logo,
+.the-header-mobile__logo .the-preloader__logo,
+.the-preloader > .the-preloader__logo {
+  display: none !important;
+}
+.the-preloader:before {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 320px;
+  height: 85px;
+  background: url('/images/logo.svg') no-repeat center center;
+  background-size: contain;
+  z-index: 6;
+}
+
+
+/* Ensure PrompTedSite nav text is visible */
+.the-nav__item[href="#how"] .the-nav__item__text {
+  opacity: 1 !important;
+  pointer-events: auto !important;
+}
+.the-nav__item[href="#how"] .the-nav__item__rive {
+  display: none !important;
+}
+
+.the-header-desktop__nav[data-v-d87ca48c],.the-header-desktop__logo[data-v-d87ca48c]{top:0}
+
+.the-preloader__button{opacity:1!important;transform:none!important;pointer-events:auto!important}.the-preloader button{pointer-events:auto!important}
+
+body{transition:background-color .45s}.is-scrolled .the-header-desktop{height:105px;background:var(--color-red);border-bottom:2px solid black}.is-scrolled .the-header-desktop__logo{width:250px}.is-scrolled .the-header-desktop__nav.--start{right:calc(50% + 13.5rem)}.is-scrolled .the-header-desktop__nav.--end{left:calc(50% + 13.5rem)}
+
+/* Native cursors remain visible without the former custom cursor runtime. */
+a[href], button, [role="button"], .button-controls, .map-marker__button, .stepper__rive.is-hovered { cursor: pointer; }
